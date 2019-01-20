@@ -1,4 +1,4 @@
-# Implementation of LSTM an GRU cells for PyTorch
+# Implementation of LSTM and GRU cells for PyTorch
 
 
 
